@@ -19,6 +19,7 @@ fun main() {
     println(title)
     print("Qual é a sua idade?")
     var idade = readLine()?.toIntOrNull()
+
     if (idade != null && idade >= 16){
         println("Você pode votar")
     }else{

@@ -1,5 +1,4 @@
 package com.exercicios
-
 /**
  * Problema 6: Par ou Ímpar
  * Crie um programa que verifica se um número é par ou ímpar.
